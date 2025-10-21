@@ -1,0 +1,14 @@
+public enum Signos {
+	ÁRIES,
+	TOURO,
+	GÊMEOS,
+	CÂNCER,
+	LEÃO,
+	VIRGEM,
+	LIBRA,
+	ESCORPIÃO,
+	SAGITÁRIO,
+	CAPRICÓRNIO,
+	AQUÁRIO,
+	PEIXES
+}
